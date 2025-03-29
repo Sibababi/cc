@@ -1,1 +1,1 @@
-project CC
+project CC.
